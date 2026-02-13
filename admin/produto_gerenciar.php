@@ -37,6 +37,9 @@
             </ul>
         </nav>
         <div id="layoutSidenav">
+
+        
+            <!--
             <div id="layoutSidenav_nav">
                 <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
@@ -86,6 +89,7 @@
                                             <a class="nav-link" href="404.html">404 Page</a>
                                             <a class="nav-link" href="500.html">500 Page</a>
                                         </nav>
+                                    !--> 
                                     </div>
                                 </nav>
                             </div>
